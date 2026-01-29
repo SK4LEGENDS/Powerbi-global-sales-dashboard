@@ -47,12 +47,5 @@ The dashboard is designed for executive and business users to quickly understand
 
 ---
 
-## 🚀 How to Use
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Interact with slicers to explore insights
-
----
-
 ## 📌 Notes
 This project uses a sample sales dataset for demonstration purposes.
